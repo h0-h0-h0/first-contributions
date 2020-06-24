@@ -20,13 +20,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:june-24" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4040316d-e63b-4522-afc0-43f0aa111487" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Contributors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Contributors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="june-24" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -83,10 +83,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add h0-h0-h0 to list of contributors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add h0-h0-h0 to list of contributors" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="0" y="0" key="SettingsEditor" timestamp="1592967903916">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1592967903916" />
+    <state x="175" y="53" key="Vcs.Push.Dialog.v2" timestamp="1592973558787">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="175" y="53" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1592973558786" />
   </component>
 </project>
